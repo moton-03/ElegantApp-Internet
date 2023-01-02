@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Internet (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Internet (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

@@ -1,0 +1,12 @@
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\bin\x86\Debug\net6.0\Internet.Core.deps.json
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\bin\x86\Debug\net6.0\Internet.Core.dll
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\bin\x86\Debug\net6.0\Internet.Core.pdb
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.csproj.AssemblyReference.cache
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.AssemblyInfoInputs.cache
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.AssemblyInfo.cs
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.dll
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\refint\Internet.Core.dll
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\Internet.Core.pdb
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet.Core\obj\x86\Debug\net6.0\ref\Internet.Core.dll

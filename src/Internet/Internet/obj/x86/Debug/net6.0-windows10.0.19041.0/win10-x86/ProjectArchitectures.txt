@@ -1,0 +1,1 @@
+C:\GitHub\ElegantApp-Internet\src\Internet\Internet\Internet.csproj;x86
